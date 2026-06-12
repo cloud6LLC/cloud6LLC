@@ -4,6 +4,10 @@
 
 I build and ship products end-to-end — from a single idea to the App Store or production web. Bilingual (English/Spanish), self-directed, and obsessed with what one developer + AI tooling can ship.
 
+## 📰 Press
+
+- [Marisa Gomez-Garcia of Cloud6 Academy On Pushing the Boundaries of AI](https://medium.com/authority-magazine/marisa-gomez-garcia-of-cloud6-academy-on-pushing-the-boundaries-of-ai-e392242e7b6e) — Authority Magazine, June 2026
+
 ## 🚀 What I've Built
 
 **[Cloud6 Academy](https://nova-learns.vercel.app)** — Bilingual K-12 learning platform
