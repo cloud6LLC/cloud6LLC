@@ -1,6 +1,6 @@
 # Hi, I'm Marisa 👋
 
-**iOS & full-stack developer • Founder of [Cloud6 App Development LLC](https://www.cloud6apps.com)**
+**iOS & full-stack developer • Founder of [Cloud6 App Development LLC](https://cloud6apps.com)**
 
 I build and ship products end-to-end — from a single idea to the App Store or production web. Bilingual (English/Spanish), self-directed, and obsessed with what one developer + AI tooling can ship.
 
@@ -20,7 +20,7 @@ I build and ship products end-to-end — from a single idea to the App Store or 
 
 **🌐 [Fleet Fix](https://fleet-fix.info)** — Web SaaS for fleet maintenance tracking
 
-**👩‍💻 App Creator Lab** — I teach kids ages 10–18 to build real apps with AI tools
+**👩‍💻 [App Creator Lab](https://appcreatorlab.com)** — I teach kids ages 10–18 to build real apps with AI tools
 
 **🤝 Client work** — Custom ordering apps, booking systems, and websites for small businesses
 
@@ -30,4 +30,4 @@ Swift/SwiftUI  React  Next.js  Supabase  Vercel  Stripe  Anthropic API  Claude C
 
 ## 📫 Reach me
 
-🌐 [cloud6apps.com](https://www.cloud6apps.com) • 📧 cloud6appdevelopment@gmail.com
+🌐 [cloud6apps.com](https://cloud6apps.com) • 📧 cloud6appdevelopment@gmail.com
